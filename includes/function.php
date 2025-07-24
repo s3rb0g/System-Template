@@ -1,2 +1,2 @@
 <?php
-include("../includes/authenticate.php");
+include("../includes/auth.php");

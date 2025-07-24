@@ -2,7 +2,7 @@
 
 $db_server  = "localhost";
 $db_user    = "root";
-$db_pass    = "";
+$db_pass    = "Qwerty12345";
 $db_name    = "system_template";
 
 global $db_conn;
