@@ -1,6 +1,6 @@
 <?php
-include("../includes/header-link.php");
 include("../includes/ajax.php");
+include("../includes/header-link.php");
 ?>
 
 <!DOCTYPE html>
